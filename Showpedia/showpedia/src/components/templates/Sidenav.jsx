@@ -5,7 +5,7 @@ const Sidenav = () => {
   return (
     <div className="w-full md:w-[18%] h-full border-r-2 border-zinc-400 px-3 md:px-4 py-5 bg-[#1F1E24]">
       <span >
-        <img src="./public/logo1.png" alt="" className=" h-24" />
+        <img src="../public/logo1.png" alt="" className=" h-24" />
       </span>
 
       <nav className="flex flex-col text-zinc-300 text-xl gap-2 ">
