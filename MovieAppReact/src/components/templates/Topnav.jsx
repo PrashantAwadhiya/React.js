@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
-import axios from "../../utils/Axios";
+import axios from "../../utils/axios";
 import noImage from "/no_image.jpg";
 
 const Topnav = () => {

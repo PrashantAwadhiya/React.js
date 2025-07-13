@@ -1,5 +1,5 @@
 export {removeperson} from '../reducers/PersonSlice'
-import axios from '../../utils/Axios'
+import axios from '../../utils/axios'
 import { loadperson } from '../reducers/PersonSlice'
 
 

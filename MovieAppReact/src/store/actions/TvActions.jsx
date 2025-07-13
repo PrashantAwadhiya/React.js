@@ -1,5 +1,5 @@
 export {removetv} from '../reducers/TvSlice'
-import axios from '../../utils/Axios'
+import axios from '../../utils/axios'
 import { loadtv } from '../reducers/TvSlice'
 
 
