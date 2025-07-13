@@ -17,7 +17,7 @@ const App = () => {
     <div
       className="bg-transparent select-none overflow-x-hidden flex text-white w-screen h-screen"
       style={{
-        background: "url('./public/bg2.jpg') center/cover no-repeat",
+        background: "url('/bg2.jpg') center/cover no-repeat",
         opacity: 0.9,
         backdropFilter: "blur(5px)",
       }}
